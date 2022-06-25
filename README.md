@@ -1,4 +1,4 @@
-# tech_stock_analysis_practice
+# Tech_Stock_Analysis
 
 This is an individual assignmet I did for my Python class of my Master's in Big Data & Business Analytics
 
